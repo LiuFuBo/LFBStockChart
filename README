@@ -1,2 +1,9 @@
 #什么是LFBStockChart？
 LFBStockChart是一个类似股票动态曲线图的框架，你只需要传入曲线的点，他就会根据你传入的点画线，有需要的开发者可以直接将demo导入项目中使用.
+
+*演示gif.
+![](https://github.com/LiuFuBo1991/LFBStockChart/raw/master/logo/logo.gif)
+
+**?注意:大家在使用过程中遇到什么不太好的体验，或者有什么不清楚的地方都可以给我留言~！
+
+有任何问题欢迎issue我,你们的issue才是我的动力~! thanks
